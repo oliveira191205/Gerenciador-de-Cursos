@@ -4,6 +4,7 @@
     {
         public Guid Id { get; set; }
         public Guid CursoId { get; set; }
+        public string Titulo { get; set; }
         public string Descricao { get; set; }
         public string Enunciado { get; set; }
         public bool Alternativa1 { get; set; }

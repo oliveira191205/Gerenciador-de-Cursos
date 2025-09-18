@@ -29,6 +29,37 @@ namespace Gerenciador_de_Cursos
             app.MapRazorPages();
 
             app.Run();
+
+
+
+
+
+//            Métodos(na service):
+
+//      CRUD em todos - Marcela
+//      Fazer matricula de aluno em curso -Larissa
+//      Designar professor para curso -Felipe
+//      Concluir atividade -Felipe
+//      Adicionar atividade -Larissa
+//      Alterar o prazo - Felipe
+//      Geração de relatórios - Felipe
+//      Design Certificado -Marcela
+//      Certificados - Felipe
+//      Presença - Felipe
+//      Calcular progresso -Felipe
+
+//      Controllers - Marcela
+//      Repositories - Larissa
+//      Context - Felipe
+//      Dtos - Felipe
+//      Interfaces - Marcela
+
+
+
+
+
+
+
         }
     }
 }

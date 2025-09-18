@@ -1,6 +1,6 @@
 ﻿namespace Gerenciador_de_Cursos.Bussiness.Entities
 {
-    public class AlunosCursos
+    public class AlunoCurso
     {
         public Guid Id { get; set; }
         public Guid CursoId { get; set; }
