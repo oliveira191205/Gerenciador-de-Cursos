@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Gerenciador_de_Cursos</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Api\Controllers\" />
+    <Folder Include="Bussiness\DTOs\" />
+    <Folder Include="Bussiness\Interfaces\IServices\" />
+    <Folder Include="Bussiness\Interfaces\IRepositories\" />
+    <Folder Include="Bussiness\Services\" />
+    <Folder Include="Data\Context\" />
+    <Folder Include="Data\Repositories\" />
+  </ItemGroup>
+
+</Project>
